@@ -1,0 +1,3 @@
+# here you can define forced hosts, restart velocity to reload
+forced_hosts:
+  pvp.example.com: pvp
